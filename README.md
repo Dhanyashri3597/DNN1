@@ -1,2 +1,1 @@
-# DNN1
-First group project. 
+Navya A
